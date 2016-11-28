@@ -8,4 +8,7 @@
 
 - echo { "presets": ["es2015"] } > .babelrc
 
+
+-c:\wamp64\www\es6>npm rum babel
+
 -c:\wamp64\www\es6\js>node main.js

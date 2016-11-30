@@ -1,14 +1,14 @@
 # ES6
 
-- npm install -g npm@latest
+> npm install -g npm@latest
 
-- npm init
+> npm init
 
-- npm install babel-cli babel-preset-es2015 --save-dev
+> npm install babel-cli babel-preset-es2015 --save-dev
 
-- echo { "presets": ["es2015"] } > .babelrc
+> echo { "presets": ["es2015"] } > .babelrc
 
+_________________________________________________________
+> c:\wamp64\www\es6>npm rum babel
 
--c:\wamp64\www\es6>npm rum babel
-
--c:\wamp64\www\es6\js>node main.js
+> c:\wamp64\www\es6\js>node main.js
